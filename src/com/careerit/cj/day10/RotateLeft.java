@@ -8,6 +8,7 @@ public class RotateLeft {
 
 		int[] rotatedArr = rotate(new int[] { 1, 2, 3, 4, 5 }, 3);
 		System.out.println(Arrays.toString(rotatedArr));
+		
 	}
 
 	public static int[] rotate(int[] arr, int size) {
