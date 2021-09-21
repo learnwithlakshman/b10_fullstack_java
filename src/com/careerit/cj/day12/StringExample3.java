@@ -2,6 +2,7 @@ package com.careerit.cj.day12;
 
 import java.util.Arrays;
 
+
 public class StringExample3 {
 
 	public static void main(String[] args) {
@@ -9,17 +10,17 @@ public class StringExample3 {
 		// System.out.println(Arrays.toString(showSubStrings("hello",3)));
 		// System.out.println(Arrays.toString(showSubStrings("hello",2)));
 
-		System.out.println(isAnagram("CAT", "TAC"));
-		System.out.println(isAnagram("CAT", "TVC"));
+		//System.out.println(isAnagram("CAT", "TAC"));
+		//System.out.println(isAnagram("CAT", "TVC"));
 		System.out.println(Arrays.toString(rotate(new int[] { 1, 2, 3, 4, 5 }, 1)));
 		System.out.println(Arrays.toString(rotate(new int[] { 1, 2, 3, 4, 5 }, 2)));
 		System.out.println(Arrays.toString(rotate(new int[] { 1, 2, 3, 4, 5 }, 3)));
 		
-		System.out.println(Arrays.toString(generateNPrimes(5)));
-
-		System.out.println(Arrays.toString(generateNPrimes(10)));
-
-		System.out.println(Arrays.toString(generateNPrimes(15)));
+//		System.out.println(Arrays.toString(generateNPrimes(5)));
+//
+//		System.out.println(Arrays.toString(generateNPrimes(10)));
+//
+//		System.out.println(Arrays.toString(generateNPrimes(15)));
 	}
 
 	// 1 data = "hello" n = 3 "hel","ell", "llo" n = 2 "he","el","ll","lo"
@@ -69,16 +70,19 @@ public class StringExample3 {
 	// #4 if arr [1,2,3,4,5] and n = 2 output should be [3,4,5,1,2] if n = 3 then
 	// [4,5,1,2,3]
 	public static int[] rotate(int[] arr, int n) {
-
-		for (int i = 1; i <= n; i++) {
-			int temp = arr[0];
-			for (int j = 0; j < arr.length - 1; j++) {
-				arr[j] = arr[j + 1];
-			}
-			arr[arr.length - 1] = temp;
-		}
-
-		return arr;
+//
+//		for (int i = 1; i <= n; i++) {
+//			int temp = arr[0];
+//			for (int j = 0; j < arr.length - 1; j++) {
+//				arr[j] = arr[j + 1];
+//			}
+//			arr[arr.length - 1] = temp;
+//		}
+//
+//		return arr;
+		
+		int[] carr = Arrays.copyOfRange(arr, 0, n);
+		return carr;
 	}
 	
 	
