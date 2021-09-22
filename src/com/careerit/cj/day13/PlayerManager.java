@@ -54,8 +54,15 @@ public class PlayerManager {
 
 
 
-	private static void showMaxPaidBowlers(Player[] arr) {
-		// TODO Auto-generated method stub
+	private static void showMaxPaidBowlers(Player[] players) {
+		double max = maxAmount(players,"Bowler");
+		System.out.println("Max paid ("+max+") Bowler(s) are:");
+		for (Player player : players) {
+			if(player.getAmount()==max && player.getRole().equals("Bowler")) {
+				player.showInfo();
+				System.out.println("*".repeat(100));
+			}
+		}
 		
 	}
 
@@ -63,8 +70,16 @@ public class PlayerManager {
 
 
 
-	private static void showMaxPaidPlayers(Player[] arr) {
-		// TODO Auto-generated method stub
+	private static void showMaxPaidPlayers(Player[] players) {
+		double max = maxAmount(players);
+		System.out.println("Max paid ("+max+") player(s) are:");
+		for (Player player : players) {
+			if(player.getAmount()==max) {
+				player.showInfo();
+				System.out.println("*".repeat(100));
+			}
+		}
+	
 		
 	}
 
@@ -72,9 +87,15 @@ public class PlayerManager {
 
 
 
-	private static void showPlayerCountBy(Player[] arr, String string) {
-		// TODO Auto-generated method stub
+	private static void showPlayerCountBy(Player[] arr, String country) {
 		
+		int count = 0;
+		for (Player player : arr) {
+			if (player.getCountry().equalsIgnoreCase(country)) {
+				count++;
+			}
+		}
+		System.out.println("Total players "+count+" from country "+country);
 	}
 
 
@@ -92,11 +113,23 @@ public class PlayerManager {
 	}
 
 	private static double maxAmount(Player[] players) {
-		return 0;
+		double max = players[0].getAmount();
+		for (Player player : players) {
+			if (max < player.getAmount()) {
+				max = player.getAmount();
+			}
+		}
+		return max;
 	}
 
 	private static double maxAmount(Player[] players, String role) {
-		return 0;
+		double max = 0;
+		for (Player player : players) {
+			if (max < player.getAmount() && player.getRole().equals(role)) {
+				max = player.getAmount();
+			}
+		}
+		return max;
 	}
 
 	private static void showPlayersEaringMoreThanOrEqualTo(Player[] arr, double amount) {
