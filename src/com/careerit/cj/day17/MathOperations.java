@@ -1,7 +1,5 @@
 package com.careerit.cj.day17;
 
-import java.io.IOException;
-
 public class MathOperations {
 
 	public int add(int a, int b) {
