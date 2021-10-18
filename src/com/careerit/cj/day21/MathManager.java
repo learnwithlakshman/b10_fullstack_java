@@ -10,6 +10,13 @@ interface MathFunction {
 		// Logic
 		return null;
 	}
+	
+	private static boolean isEven(int num) {
+		return true;
+	}
+	public static int biggest(int a,int b) {
+		return 1;
+	}
 
 }
 

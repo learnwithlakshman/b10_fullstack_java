@@ -1,6 +1,4 @@
-package com.careerit.cj.day20;
-
-import com.careerit.cj.day23.InsufficientFundsException;
+package com.careerit.cj.day23;
 
 public class SavingsAccount extends Account {
 
