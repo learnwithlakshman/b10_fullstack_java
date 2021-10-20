@@ -36,13 +36,15 @@ public class IplStatService {
 	}
 
 	public double totalAmountByTeam(String team) {
-		double total = 0;
-		for (Player p : players) {
-			if (p.getTeam().equalsIgnoreCase(team)) {
-				total += p.getPrice();
-			}
-		}
-		return total;
+//		double total = 0;
+//		for (Player p : players) {
+//			if (p.getTeam().equalsIgnoreCase(team)) {
+//				total += p.getPrice();
+//			}
+//		}
+//		return total;
+		
+		return players.stream().filter(p->p.getTeam().equals(team)).mapToDouble(p->p.getPrice()).sum();
 	}
 
 	public int playerCountByTeam(String team) {
