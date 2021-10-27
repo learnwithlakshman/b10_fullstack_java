@@ -1,0 +1,21 @@
+---
+tname: city
+dbName: citybank
+user: user
+password: user
+port: 3306
+host: localhost
+---
+tname: jpm
+dbName: jpm
+user: user
+password: password
+port: 3306
+host: localhost
+---   
+tname: icici
+dbName: icici
+user: user
+password: password
+port: 3306
+host: localhost
