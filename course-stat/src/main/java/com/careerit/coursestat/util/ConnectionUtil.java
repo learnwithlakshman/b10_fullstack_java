@@ -56,4 +56,17 @@ public final class ConnectionUtil {
 			System.out.println("While closing resources :" + e);
 		}
 	}
+
+	public void close(Statement st, Connection con) {
+		try {
+			
+			if (st != null)
+				st.close();
+			if (con != null)
+				con.close();
+		} catch (SQLException e) {
+			System.out.println("While closing resources :" + e);
+		}
+		
+	}
 }

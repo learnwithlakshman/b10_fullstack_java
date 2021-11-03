@@ -32,4 +32,10 @@ public class StatusCountDTO {
 		this.notPlacedCount = notPlacedCount;
 	}
 
+	@Override
+	public String toString() {
+		return "StatusCountDTO [placedCount=" + placedCount + ", notPlacedCount=" + notPlacedCount + "]";
+	}
+
+	
 }
