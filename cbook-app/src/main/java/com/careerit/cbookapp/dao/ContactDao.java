@@ -2,18 +2,18 @@ package com.careerit.cbookapp.dao;
 
 import java.util.List;
 
-import com.careerit.cbookapp.domain.Contact;
+import com.careerit.cbookapp.dto.ContactDTO;
 
 public interface ContactDao {
 
-	public Contact addContact(Contact contact);
+	public ContactDTO addContact(ContactDTO contact);
 
-	public Contact editContact(Long cid);
+	public ContactDTO editContact(Long cid);
 
-	public Contact deleteContact(Long cid);
+	public ContactDTO deleteContact(Long cid);
 
-	public List<Contact> getContacts(Long uid);
+	public List<ContactDTO> getContacts(Long uid);
 
-	public List<Contact> search(Long uid, String str);
+	public List<ContactDTO> search(Long uid, String str);
 
 }
