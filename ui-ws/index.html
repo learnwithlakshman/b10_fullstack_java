@@ -4,10 +4,15 @@
 
     <head>
         <title>Learning HTML is fun!</title>
+        <link rel="stylesheet" href="css/main.css">
     </head>
 
+
     <body>
-         <h3>UI - Topic</h3>
+        <div id="header">
+                Welcome to UI world
+        </div>
+         <h3 class="mheading">UI - Topic</h3>
      <ul>
           <li>HTML</li>
           <li>CSS</li>
@@ -40,23 +45,25 @@
           <li>Database</li>
           <li>Spring</li>
      </ol>
-
+     <h3 class="mheading">Forms</h3>
+     <div id="regform">
      <form action="#" method="post">
           <p>
                <label>Name </label>
-               <input type="text" name="name">
+               <input type="text" name="name" class="input">
           </p>
           <p>
             <label>Email </label>
-            <input type="text" name="email">
+               
+            <input type="text" name="email" class="input" >
        </p>
        <p>
             <label>Mobile </label>
-            <input type="text" name="Mobile">
+            <input type="text" name="Mobile" class="input">
        </p>
        <p>
           <label>Qualification </label>
-          <select>
+          <select class="input">
                <option value="">Select Qualification</option>
                <option value="BE">BE/BTech</option>
                <option value="MCA">MCA</option>
@@ -76,12 +83,12 @@
          
      </p>
        <p>
-            <input type="submit" value="Submit">
+            <label>&nbsp;</label>
+            <input type="submit" value="Submit" class="btn">
        </p>
      </form>
-
-
-        <h3 id="heading">Headings</h3>
+    </div>
+     <h3 class="mheading">Headings</h3>
         <h1>Welcome to Web World</h1>
         <h2>Welcome to Web World</h2>
         <h3>Welcome to Web World</h3>
@@ -114,11 +121,11 @@
                 <strong>Charan</strong>
             </i>
         </p>
-
-        <table border="1">
+        <h3>Table</h3>
+        <table id="empTable">
             <thead>
                 <tr>
-                     <th colspan="4">Employee Details</th>
+                     <th colspan="4" class="mh">Employee Details</th>
                 </tr>
                 <tr>
                     <th>#</th>
@@ -152,11 +159,35 @@
                         <button>Delete</button>
                     </td>
                 </tr>
+                <tr>
+                    <td>1</td>
+                    <td>Jayesh</td>
+                    <td>jayesh.g@gmail.com</td>
+                    <td>
+                        <button>Delete</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>Jayesh</td>
+                    <td>jayesh.g@gmail.com</td>
+                    <td>
+                        <button>Delete</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>Jayesh</td>
+                    <td>jayesh.g@gmail.com</td>
+                    <td>
+                        <button>Delete</button>
+                    </td>
+                </tr>
             </tbody>
         </table>
-
+        <h3 class="mheading">Images</h3>
         <img src="https://th.bing.com/th/id/R.7eaf51b1efbac224a826255f61b1e827?rik=JMPMIDInJXVErg&riu=http%3a%2f%2fwww.emagidla.com%2fwp-content%2fuploads%2f2013%2f10%2fhtml5.png&ehk=qIJZyOCy32GmZWiNV%2b3EOE3Tj29u1%2feU0WkK1nTJiqE%3d&risl=&pid=ImgRaw&r=0" width="400" height="200">
-
+        <h3 class="mheading">Links</h3>
         <p>
           <a href="https://www.google.com/" target="_blank"> <img src="img/ic_wahlberg_product_core_48.png8.png"></a><br>
           <a href="https://www.google.com/" target="_blank">Facebook</a><br>

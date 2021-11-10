@@ -1,0 +1,39 @@
+
+Load data from emp_data.csv file then:
+
+1. Get all country names (unique)
+2. Get employees of the given country (example: India,United States...)
+3. Get sum,max,min,avg salary of given country (example: India,United States...)
+4. Get max paid employee(s) of given country(example: India,United States....)
+
+
+Employee
+   id, firstName, lastName, email, gender, country, salary
+
+EmployeeStatDTO
+   sum,max,min,avg
+
+
+CsvReaderUtil:
+   
+     List<Employee> loadFromCsvFile()
+
+EmployeeService:
+ 
+      Set<String> getCountryNames()
+      List<Employee> getEmployeeBy(String countryName)
+      EmployeeStatDTO getEmployeeStatBy(String countryName)
+      List<Employee> getMaxPaidBy(String countryName)      
+	
+EmployeeServiceImpl
+
+      List<Employee> list = CsvReaderUtil.loadFromCsvFile();
+      Map<String,List<Employee>> map = new HashMap<>():
+
+
+Step-1: Load csv data to container object
+Step-2: Create interface with required operations
+Setp-3: Give implemenation for interface
+Setp-4: Test implemenation using main method
+
+
