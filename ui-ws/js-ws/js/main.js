@@ -15,3 +15,4 @@ function showTable() {
         document.querySelector("#idShowTable").innerHTML = "";
     }
 }
+
