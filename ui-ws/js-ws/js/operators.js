@@ -34,5 +34,16 @@ calculateEMIId.addEventListener('click',function(event){
 })
 
 function convertTo(){
-      //Logic
+     
+        let num = Number.parseFloat(document.querySelector("#timeinms").value);
+        let to = document.querySelector("#choice").value;
+        let val;
+        if(to === "sec"){
+            val = num / 1000;
+        }else if(to === "min"){
+            val = num / (1000 * 60);
+        }else if(to === "hrs"){
+            val = num / (1000 * 60 * 60);
+        }
+        document.querySelector("#convRes").value = val;
 }
