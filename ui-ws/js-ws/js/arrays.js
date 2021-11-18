@@ -77,3 +77,50 @@ function deleteTodo(ele){
         showTodos();
     }
 }
+
+// Contact Application
+
+// let contacts = [
+//                     {"name":"Krish","email":"krish.t@gmail.com","mobile":"9098765679","age":34},
+//                     {"name":"Balu","email":"balu.t@gmail.com","mobile":"9098765669","age":37},
+//                     {"name":"Charan","email":"charan.k@gmail.com","mobile":"9098765689","age":36},
+//                     {"name":"Manoj","email":"manoj.pvn@gmail.com","mobile":"90987656899","age":22}
+                
+//                 ];
+
+let contacts = JSON.parse(localStorage.getItem("contacts"));
+const contactViewId = document.querySelector("#contactViewId");
+
+function showContacts(){
+    let str = `<table class='table-striped '>`;
+    
+    str += `<thead><tr><th>Name</th><th>Email</th><th>Mobile</th><th>Edit|Delete</th></tr></thead>`;
+    str += `<tbody>`;
+    contacts.forEach(c=>{
+        str += `<tr><td>${c.name}</td><td>${c.email}</td><td>${c.mobile}</td><td class="text-right"><i class="fa fa-edit"></i>&nbsp;&nbsp;<i class="fa fa-trash"></i></td></tr>`;
+        
+    })
+
+    str +=`</tbody></table>`;
+    contactViewId.innerHTML = str;
+}
+
+function addContact(){
+    let c = {"name":"Naresh","email":"naresh.a@gmail.com","mobile":"9098765979","age":21};
+    contacts.push(c);
+    showContacts();
+}
+
+showContacts();
+
+
+
+//let names = contacts.map(c=>c.name.toUpperCase());
+// let names = contacts.filter(c=>c.name.includes("a")).map(c=>c.name);
+let ages = contacts.map(c=>c.age).reduce((a,b)=>a<b?a:b);
+document.querySelector("#rid").innerHTML = ages;
+
+
+localStorage.setItem("name","Krish");
+
+//localStorage.setItem("contacts",JSON.stringify(contacts));
