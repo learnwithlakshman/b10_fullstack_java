@@ -1,0 +1,1325 @@
+[
+  {
+    "name": "Virat Kohli",
+    "role": "Batsman",
+    "country": "India",
+    "team": "RCB",
+    "price": 170000000
+  },
+  {
+    "name": "AB de Villiers",
+    "role": "Wicket Keeper",
+    "country": "South Africa",
+    "team": "RCB",
+    "price": 110000000
+  },
+  {
+    "name": "Chris Morris",
+    "role": "All Rounder",
+    "country": "South Africa",
+    "team": "RCB",
+    "price": 100000000
+  },
+  {
+    "name": "Yuzvendra Chahal",
+    "role": "Bowler",
+    "country": "India",
+    "team": "RCB",
+    "price": 60000000
+  },
+  {
+    "name": "Shivam Dube",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "RCB",
+    "price": 50000000
+  },
+  {
+    "name": "Aaron Finch",
+    "role": "Batsman",
+    "country": "Australia",
+    "team": "RCB",
+    "price": 44000000
+  },
+  {
+    "name": "Umesh Yadav",
+    "role": "Bowler",
+    "country": "India",
+    "team": "RCB",
+    "price": 42000000
+  },
+  {
+    "name": "Kane Richardson",
+    "role": "Bowler",
+    "country": "Australia",
+    "team": "RCB",
+    "price": 40000000
+  },
+  {
+    "name": "Washington Sundar",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "RCB",
+    "price": 32000000
+  },
+  {
+    "name": "Navdeep Saini",
+    "role": "Bowler",
+    "country": "India",
+    "team": "RCB",
+    "price": 30000000
+  },
+  {
+    "name": "Mohammed Siraj",
+    "role": "Bowler",
+    "country": "India",
+    "team": "RCB",
+    "price": 26000000
+  },
+  {
+    "name": "Dale Steyn",
+    "role": "Bowler",
+    "country": "South Africa",
+    "team": "RCB",
+    "price": 20000000
+  },
+  {
+    "name": "Moeen Ali",
+    "role": "All Rounder",
+    "country": "England",
+    "team": "RCB",
+    "price": 17000000
+  },
+  {
+    "name": "Parthiv Patel",
+    "role": "Wicket Keeper",
+    "country": "India",
+    "team": "RCB",
+    "price": 17000000
+  },
+  {
+    "name": "Pawan Negi",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "RCB",
+    "price": 10000000
+  },
+  {
+    "name": "Gurkeerat Singh",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "RCB",
+    "price": 5000000
+  },
+  {
+    "name": "Isuru Udana",
+    "role": "All Rounder",
+    "country": "Sri Lanka",
+    "team": "RCB",
+    "price": 5000000
+  },
+  {
+    "name": "Devdutt Padikkal",
+    "role": "Batsman",
+    "country": "India",
+    "team": "RCB",
+    "price": 2000000
+  },
+  {
+    "name": "Pavan Deshpande",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "RCB",
+    "price": 2000000
+  },
+  {
+    "name": "Shahbaz Ahamad",
+    "role": "Wicket Keeper",
+    "country": "India",
+    "team": "RCB",
+    "price": 2000000
+  },
+  {
+    "name": "Joshua Philippe",
+    "role": "Wicket Keeper",
+    "country": "Australia",
+    "team": "RCB",
+    "price": 2000000
+  },
+  {
+    "name": "MS Dhoni",
+    "role": "Wicket Keeper",
+    "country": "India",
+    "team": "CSK",
+    "price": 150000000
+  },
+  {
+    "name": "Suresh Raina",
+    "role": "Batsman",
+    "country": "India",
+    "team": "CSK",
+    "price": 110000000
+  },
+  {
+    "name": "Kedar Jadhav",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "CSK",
+    "price": 78000000
+  },
+  {
+    "name": "Ravindra Jadeja",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "CSK",
+    "price": 70000000
+  },
+  {
+    "name": "Piyush Chawla",
+    "role": "Bowler",
+    "country": "India",
+    "team": "CSK",
+    "price": 67500000
+  },
+  {
+    "name": "Dwayne Bravo",
+    "role": "All Rounder",
+    "country": "West Indies",
+    "team": "CSK",
+    "price": 64000000
+  },
+  {
+    "name": "Sam Curran",
+    "role": "All Rounder",
+    "country": "England",
+    "team": "CSK",
+    "price": 55000000
+  },
+  {
+    "name": "Karn Sharma",
+    "role": "Bowler",
+    "country": "India",
+    "team": "CSK",
+    "price": 50000000
+  },
+  {
+    "name": "Shane Watson",
+    "role": "All Rounder",
+    "country": "Australia",
+    "team": "CSK",
+    "price": 40000000
+  },
+  {
+    "name": "Shardul Thakur",
+    "role": "Bowler",
+    "country": "India",
+    "team": "CSK",
+    "price": 26000000
+  },
+  {
+    "name": "Ambati Rayudu",
+    "role": "Wicket Keeper",
+    "country": "India",
+    "team": "CSK",
+    "price": 22000000
+  },
+  {
+    "name": "Harbhajan Singh",
+    "role": "Bowler",
+    "country": "India",
+    "team": "CSK",
+    "price": 20000000
+  },
+  {
+    "name": "Murali Vijay",
+    "role": "Batsman",
+    "country": "India",
+    "team": "CSK",
+    "price": 20000000
+  },
+  {
+    "name": "Josh Hazlewood",
+    "role": "Bowler",
+    "country": "Australia",
+    "team": "CSK",
+    "price": 20000000
+  },
+  {
+    "name": "Faf Du Plessis",
+    "role": "Batsman",
+    "country": "South Africa",
+    "team": "CSK",
+    "price": 16000000
+  },
+  {
+    "name": "Imran Tahir",
+    "role": "Bowler",
+    "country": "South Africa",
+    "team": "CSK",
+    "price": 10000000
+  },
+  {
+    "name": "Deepak Chahar",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "CSK",
+    "price": 8000000
+  },
+  {
+    "name": "Lungisani Ngidi",
+    "role": "Bowler",
+    "country": "South Africa",
+    "team": "CSK",
+    "price": 5000000
+  },
+  {
+    "name": "Mitchell Santner",
+    "role": "All Rounder",
+    "country": "New Zealand",
+    "team": "CSK",
+    "price": 5000000
+  },
+  {
+    "name": "Asif K M",
+    "role": "Bowler",
+    "country": "India",
+    "team": "CSK",
+    "price": 4000000
+  },
+  {
+    "name": "Jagadeesan Narayan",
+    "role": "Wicket Keeper",
+    "country": "India",
+    "team": "CSK",
+    "price": 2000000
+  },
+  {
+    "name": "Monu Singh",
+    "role": "Bowler",
+    "country": "India",
+    "team": "CSK",
+    "price": 2000000
+  },
+  {
+    "name": "Ruturaj Gaikwad",
+    "role": "Batsman",
+    "country": "India",
+    "team": "CSK",
+    "price": 2000000
+  },
+  {
+    "name": "R Sai Kishore",
+    "role": "Bowler",
+    "country": "India",
+    "team": "CSK",
+    "price": 2000000
+  },
+  {
+    "name": "Rishabh Pant",
+    "role": "Wicket Keeper",
+    "country": "India",
+    "team": "DC",
+    "price": 150000000
+  },
+  {
+    "name": "Shimron Hetmyer",
+    "role": "Batsman",
+    "country": "West Indies",
+    "team": "DC",
+    "price": 77500000
+  },
+  {
+    "name": "Ravichandran Ashwin",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "DC",
+    "price": 76000000
+  },
+  {
+    "name": "Shreyas Iyer",
+    "role": "Batsman",
+    "country": "India",
+    "team": "DC",
+    "price": 70000000
+  },
+  {
+    "name": "Ajinkya Rahane",
+    "role": "Batsman",
+    "country": "India",
+    "team": "DC",
+    "price": 52500000
+  },
+  {
+    "name": "Shikhar Dhawan",
+    "role": "Batsman",
+    "country": "India",
+    "team": "DC",
+    "price": 52000000
+  },
+  {
+    "name": "Axar Patel",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "DC",
+    "price": 50000000
+  },
+  {
+    "name": "Marcus Stoinis",
+    "role": "All Rounder",
+    "country": "Australia",
+    "team": "DC",
+    "price": 48000000
+  },
+  {
+    "name": "Kagiso Rabada",
+    "role": "Bowler",
+    "country": "South Africa",
+    "team": "DC",
+    "price": 42000000
+  },
+  {
+    "name": "Amit Mishra",
+    "role": "Bowler",
+    "country": "India",
+    "team": "DC",
+    "price": 40000000
+  },
+  {
+    "name": "Alex Carey",
+    "role": "Wicket Keeper",
+    "country": "Australia",
+    "team": "DC",
+    "price": 24000000
+  },
+  {
+    "name": "Jason Roy",
+    "role": "Batsman",
+    "country": "England",
+    "team": "DC",
+    "price": 15000000
+  },
+  {
+    "name": "Chris Woakes",
+    "role": "All Rounder",
+    "country": "England",
+    "team": "DC",
+    "price": 15000000
+  },
+  {
+    "name": "Prithvi Shaw",
+    "role": "Batsman",
+    "country": "India",
+    "team": "DC",
+    "price": 12000000
+  },
+  {
+    "name": "Ishant Sharma",
+    "role": "Bowler",
+    "country": "India",
+    "team": "DC",
+    "price": 11000000
+  },
+  {
+    "name": "Avesh Khan",
+    "role": "Bowler",
+    "country": "India",
+    "team": "DC",
+    "price": 7000000
+  },
+  {
+    "name": "Keemo Paul",
+    "role": "All Rounder",
+    "country": "West Indies",
+    "team": "DC",
+    "price": 5000000
+  },
+  {
+    "name": "Mohit Sharma",
+    "role": "Bowler",
+    "country": "India",
+    "team": "DC",
+    "price": 5000000
+  },
+  {
+    "name": "Harshal Patel",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "DC",
+    "price": 2000000
+  },
+  {
+    "name": "Sandeep Lamichhane",
+    "role": "Bowler",
+    "country": "Nepal",
+    "team": "DC",
+    "price": 2000000
+  },
+  {
+    "name": "Tushar Deshpande",
+    "role": "Bowler",
+    "country": "India",
+    "team": "DC",
+    "price": 2000000
+  },
+  {
+    "name": "Lalit Yadav",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "DC",
+    "price": 2000000
+  },
+  {
+    "name": "David Warner",
+    "role": "Batsman",
+    "country": "Australia",
+    "team": "SRH",
+    "price": 125000000
+  },
+  {
+    "name": "Manish Pandey",
+    "role": "Batsman",
+    "country": "India",
+    "team": "SRH",
+    "price": 110000000
+  },
+  {
+    "name": "Rashid Khan Arman",
+    "role": "Bowler",
+    "country": "Afghanistan",
+    "team": "SRH",
+    "price": 90000000
+  },
+  {
+    "name": "Bhuvneshwar Kumar",
+    "role": "Bowler",
+    "country": "India",
+    "team": "SRH",
+    "price": 85000000
+  },
+  {
+    "name": "Siddharth Kaul",
+    "role": "Bowler",
+    "country": "India",
+    "team": "SRH",
+    "price": 38000000
+  },
+  {
+    "name": "Shahbaz Nadeem",
+    "role": "Bowler",
+    "country": "India",
+    "team": "SRH",
+    "price": 32000000
+  },
+  {
+    "name": "Vijay Shankar",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "SRH",
+    "price": 32000000
+  },
+  {
+    "name": "Kane Williamson",
+    "role": "Batsman",
+    "country": "New Zealand",
+    "team": "SRH",
+    "price": 30000000
+  },
+  {
+    "name": "Sandeep Sharma",
+    "role": "Bowler",
+    "country": "India",
+    "team": "SRH",
+    "price": 30000000
+  },
+  {
+    "name": "Syed Khaleel Ahmed",
+    "role": "Bowler",
+    "country": "India",
+    "team": "SRH",
+    "price": 30000000
+  },
+  {
+    "name": "Jonny Bairstow",
+    "role": "Wicket Keeper",
+    "country": "England",
+    "team": "SRH",
+    "price": 22000000
+  },
+  {
+    "name": "Mitchell Marsh",
+    "role": "All Rounder",
+    "country": "Australia",
+    "team": "SRH",
+    "price": 20000000
+  },
+  {
+    "name": "Priyam Garg",
+    "role": "Batsman",
+    "country": "India",
+    "team": "SRH",
+    "price": 19000000
+  },
+  {
+    "name": "Virat Singh",
+    "role": "Batsman",
+    "country": "India",
+    "team": "SRH",
+    "price": 19000000
+  },
+  {
+    "name": "Wriddhiman Saha",
+    "role": "Wicket Keeper",
+    "country": "India",
+    "team": "SRH",
+    "price": 12000000
+  },
+  {
+    "name": "Mohammad Nabi Eisakhil",
+    "role": "All Rounder",
+    "country": "Afghanistan",
+    "team": "SRH",
+    "price": 10000000
+  },
+  {
+    "name": "Shreevats Goswami",
+    "role": "Wicket Keeper",
+    "country": "India",
+    "team": "SRH",
+    "price": 10000000
+  },
+  {
+    "name": "Basil Thampi",
+    "role": "Bowler",
+    "country": "India",
+    "team": "SRH",
+    "price": 9500000
+  },
+  {
+    "name": "Abhishek Sharma",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "SRH",
+    "price": 5500000
+  },
+  {
+    "name": "Billy Stanlake",
+    "role": "Bowler",
+    "country": "Australia",
+    "team": "SRH",
+    "price": 5000000
+  },
+  {
+    "name": "Fabian Allen",
+    "role": "All Rounder",
+    "country": "West Indies",
+    "team": "SRH",
+    "price": 5000000
+  },
+  {
+    "name": "T Natarajan",
+    "role": "Bowler",
+    "country": "India",
+    "team": "SRH",
+    "price": 4000000
+  },
+  {
+    "name": "Sandeep Bavanaka",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "SRH",
+    "price": 2000000
+  },
+  {
+    "name": "Abdul Samad",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "SRH",
+    "price": 2000000
+  },
+  {
+    "name": "Sanjay Yadav",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "SRH",
+    "price": 2000000
+  },
+  {
+    "name": "Pat Cummins",
+    "role": "All Rounder",
+    "country": "Australia",
+    "team": "KKR",
+    "price": 155000000
+  },
+  {
+    "name": "Sunil Narine",
+    "role": "Bowler",
+    "country": "West Indies",
+    "team": "KKR",
+    "price": 125000000
+  },
+  {
+    "name": "Andre Russell",
+    "role": "All Rounder",
+    "country": "West Indies",
+    "team": "KKR",
+    "price": 85000000
+  },
+  {
+    "name": "Dinesh Karthik",
+    "role": "Wicket Keeper",
+    "country": "India",
+    "team": "KKR",
+    "price": 74000000
+  },
+  {
+    "name": "Kuldeep Yadav",
+    "role": "Bowler",
+    "country": "India",
+    "team": "KKR",
+    "price": 58000000
+  },
+  {
+    "name": "Eoin Morgan",
+    "role": "Batsman",
+    "country": "England",
+    "team": "KKR",
+    "price": 52500000
+  },
+  {
+    "name": "Varun Chakaravarthy",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "KKR",
+    "price": 40000000
+  },
+  {
+    "name": "Nitish Rana",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "KKR",
+    "price": 34000000
+  },
+  {
+    "name": "Kamlesh Nagarkoti",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "KKR",
+    "price": 32000000
+  },
+  {
+    "name": "Shivam Mavi",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "KKR",
+    "price": 30000000
+  },
+  {
+    "name": "Shubman Gill",
+    "role": "Batsman",
+    "country": "India",
+    "team": "KKR",
+    "price": 18000000
+  },
+  {
+    "name": "Lockie Ferguson",
+    "role": "Bowler",
+    "country": "New Zealand",
+    "team": "KKR",
+    "price": 16000000
+  },
+  {
+    "name": "Tom Banton",
+    "role": "Batsman",
+    "country": "England",
+    "team": "KKR",
+    "price": 10000000
+  },
+  {
+    "name": "Rinku Singh",
+    "role": "Batsman",
+    "country": "India",
+    "team": "KKR",
+    "price": 8000000
+  },
+  {
+    "name": "Harry Gurney",
+    "role": "Bowler",
+    "country": "England",
+    "team": "KKR",
+    "price": 7500000
+  },
+  {
+    "name": "Rahul Tripathi",
+    "role": "Batsman",
+    "country": "India",
+    "team": "KKR",
+    "price": 6000000
+  },
+  {
+    "name": "Prasidh Krishna",
+    "role": "Bowler",
+    "country": "India",
+    "team": "KKR",
+    "price": 2000000
+  },
+  {
+    "name": "Sandeep Warrier",
+    "role": "Bowler",
+    "country": "India",
+    "team": "KKR",
+    "price": 2000000
+  },
+  {
+    "name": "Siddhesh Lad",
+    "role": "Batsman",
+    "country": "India",
+    "team": "KKR",
+    "price": 2000000
+  },
+  {
+    "name": "M Siddharth",
+    "role": "Bowler",
+    "country": "India",
+    "team": "KKR",
+    "price": 2000000
+  },
+  {
+    "name": "Chris Green",
+    "role": "All Rounder",
+    "country": "Australia",
+    "team": "KKR",
+    "price": 2000000
+  },
+  {
+    "name": "Nikhil Naik",
+    "role": "Wicket Keeper",
+    "country": "India",
+    "team": "KKR",
+    "price": 2000000
+  },
+  {
+    "name": "Pravin Tambe",
+    "role": "Bowler",
+    "country": "India",
+    "team": "KKR",
+    "price": 2000000
+  },
+  {
+    "name": "Rohit Sharma",
+    "role": "Batsman",
+    "country": "India",
+    "team": "MI",
+    "price": 150000000
+  },
+  {
+    "name": "Hardik Pandya",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "MI",
+    "price": 110000000
+  },
+  {
+    "name": "Krunal Pandya",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "MI",
+    "price": 88000000
+  },
+  {
+    "name": "Nathan Coulter-Nile",
+    "role": "Bowler",
+    "country": "Australia",
+    "team": "MI",
+    "price": 80000000
+  },
+  {
+    "name": "Jasprit Bumrah",
+    "role": "Bowler",
+    "country": "India",
+    "team": "MI",
+    "price": 70000000
+  },
+  {
+    "name": "Ishan Kishan",
+    "role": "Wicket Keeper",
+    "country": "India",
+    "team": "MI",
+    "price": 62000000
+  },
+  {
+    "name": "Kieron Pollard",
+    "role": "All Rounder",
+    "country": "West Indies",
+    "team": "MI",
+    "price": 54000000
+  },
+  {
+    "name": "Surya Kumar Yadav",
+    "role": "Batsman",
+    "country": "India",
+    "team": "MI",
+    "price": 32000000
+  },
+  {
+    "name": "Trent Boult",
+    "role": "Bowler",
+    "country": "New Zealand",
+    "team": "MI",
+    "price": 32000000
+  },
+  {
+    "name": "Quinton De Kock",
+    "role": "Wicket Keeper",
+    "country": "South Africa",
+    "team": "MI",
+    "price": 28000000
+  },
+  {
+    "name": "Lasith Malinga",
+    "role": "Bowler",
+    "country": "Sri Lanka",
+    "team": "MI",
+    "price": 20000000
+  },
+  {
+    "name": "Sherfane Rutherford",
+    "role": "All Rounder",
+    "country": "West Indies",
+    "team": "MI",
+    "price": 20000000
+  },
+  {
+    "name": "Chris Lynn",
+    "role": "Batsman",
+    "country": "Australia",
+    "team": "MI",
+    "price": 20000000
+  },
+  {
+    "name": "Rahul Chahar",
+    "role": "Bowler",
+    "country": "India",
+    "team": "MI",
+    "price": 19000000
+  },
+  {
+    "name": "Mitchell McClenaghan",
+    "role": "Bowler",
+    "country": "New Zealand",
+    "team": "MI",
+    "price": 10000000
+  },
+  {
+    "name": "Anmolpreet Singh",
+    "role": "Batsman",
+    "country": "India",
+    "team": "MI",
+    "price": 8000000
+  },
+  {
+    "name": "Dhawal Kulkarni",
+    "role": "Bowler",
+    "country": "India",
+    "team": "MI",
+    "price": 7500000
+  },
+  {
+    "name": "Jayant Yadav",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "MI",
+    "price": 5000000
+  },
+  {
+    "name": "Saurabh Tiwary",
+    "role": "Batsman",
+    "country": "India",
+    "team": "MI",
+    "price": 5000000
+  },
+  {
+    "name": "Aditya Tare",
+    "role": "Wicket Keeper",
+    "country": "India",
+    "team": "MI",
+    "price": 2000000
+  },
+  {
+    "name": "Anukul Roy",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "MI",
+    "price": 2000000
+  },
+  {
+    "name": "Mohsin Khan",
+    "role": "Bowler",
+    "country": "India",
+    "team": "MI",
+    "price": 2000000
+  },
+  {
+    "name": "Digvijay Deshmukh",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "MI",
+    "price": 2000000
+  },
+  {
+    "name": "Prince Balwant Rai Singh",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "MI",
+    "price": 2000000
+  },
+  {
+    "name": "KL Rahul",
+    "role": "Batsman",
+    "country": "India",
+    "team": "KXIP",
+    "price": 110000000
+  },
+  {
+    "name": "Glenn Maxwell",
+    "role": "All Rounder",
+    "country": "Australia",
+    "team": "KXIP",
+    "price": 107500000
+  },
+  {
+    "name": "Sheldon Cottrell",
+    "role": "Bowler",
+    "country": "West Indies",
+    "team": "KXIP",
+    "price": 85000000
+  },
+  {
+    "name": "Gowtham Krishnappa",
+    "role": "Bowler",
+    "country": "India",
+    "team": "KXIP",
+    "price": 62000000
+  },
+  {
+    "name": "Karun Nair",
+    "role": "Batsman",
+    "country": "India",
+    "team": "KXIP",
+    "price": 56000000
+  },
+  {
+    "name": "Mohammad Shami",
+    "role": "Bowler",
+    "country": "India",
+    "team": "KXIP",
+    "price": 48000000
+  },
+  {
+    "name": "Nicholas Pooran",
+    "role": "Wicket Keeper",
+    "country": "West Indies",
+    "team": "KXIP",
+    "price": 42000000
+  },
+  {
+    "name": "Mujeeb Zadran",
+    "role": "Bowler",
+    "country": "Afghanistan",
+    "team": "KXIP",
+    "price": 40000000
+  },
+  {
+    "name": "Chris Jordan",
+    "role": "All Rounder",
+    "country": "England",
+    "team": "KXIP",
+    "price": 30000000
+  },
+  {
+    "name": "Chris Gayle",
+    "role": "Batsman",
+    "country": "West Indies",
+    "team": "KXIP",
+    "price": 20000000
+  },
+  {
+    "name": "Ravi Bishnoi",
+    "role": "Bowler",
+    "country": "India",
+    "team": "KXIP",
+    "price": 20000000
+  },
+  {
+    "name": "Mandeep Singh",
+    "role": "Batsman",
+    "country": "India",
+    "team": "KXIP",
+    "price": 14000000
+  },
+  {
+    "name": "Mayank Agarwal",
+    "role": "Batsman",
+    "country": "India",
+    "team": "KXIP",
+    "price": 10000000
+  },
+  {
+    "name": "Hardus Viljoen",
+    "role": "Bowler",
+    "country": "South Africa",
+    "team": "KXIP",
+    "price": 7500000
+  },
+  {
+    "name": "Prabhsimran Singh",
+    "role": "Wicket Keeper",
+    "country": "India",
+    "team": "KXIP",
+    "price": 5500000
+  },
+  {
+    "name": "Deepak Hooda",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "KXIP",
+    "price": 5000000
+  },
+  {
+    "name": "James Neesham",
+    "role": "All Rounder",
+    "country": "New Zealand",
+    "team": "KXIP",
+    "price": 5000000
+  },
+  {
+    "name": "Darshan Nalkande",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "KXIP",
+    "price": 3000000
+  },
+  {
+    "name": "Sarfaraz Khan",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "KXIP",
+    "price": 2500000
+  },
+  {
+    "name": "Arshdeep Singh",
+    "role": "Bowler",
+    "country": "India",
+    "team": "KXIP",
+    "price": 2000000
+  },
+  {
+    "name": "Harpreet Brar",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "KXIP",
+    "price": 2000000
+  },
+  {
+    "name": "Jagadeesha Suchith",
+    "role": "Bowler",
+    "country": "India",
+    "team": "KXIP",
+    "price": 2000000
+  },
+  {
+    "name": "Murugan Ashwin",
+    "role": "Bowler",
+    "country": "India",
+    "team": "KXIP",
+    "price": 2000000
+  },
+  {
+    "name": "Ishan Porel",
+    "role": "Bowler",
+    "country": "India",
+    "team": "KXIP",
+    "price": 2000000
+  },
+  {
+    "name": "Tajinder Dhillon",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "KXIP",
+    "price": 2000000
+  },
+  {
+    "name": "Ben Stokes",
+    "role": "All Rounder",
+    "country": "England",
+    "team": "RR",
+    "price": 125000000
+  },
+  {
+    "name": "Steve Smith",
+    "role": "Batsman",
+    "country": "Australia",
+    "team": "RR",
+    "price": 125000000
+  },
+  {
+    "name": "Sanju Samson",
+    "role": "Wicket Keeper",
+    "country": "India",
+    "team": "RR",
+    "price": 80000000
+  },
+  {
+    "name": "Jofra Archer",
+    "role": "All Rounder",
+    "country": "England",
+    "team": "RR",
+    "price": 72000000
+  },
+  {
+    "name": "Jos Buttler",
+    "role": "Wicket Keeper",
+    "country": "England",
+    "team": "RR",
+    "price": 44000000
+  },
+  {
+    "name": "Ankit Singh Rajpoot",
+    "role": "Bowler",
+    "country": "India",
+    "team": "RR",
+    "price": 30000000
+  },
+  {
+    "name": "Rahul Tewatia",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "RR",
+    "price": 30000000
+  },
+  {
+    "name": "Robin Uthappa",
+    "role": "Batsman",
+    "country": "India",
+    "team": "RR",
+    "price": 30000000
+  },
+  {
+    "name": "Jaydev Unadkat",
+    "role": "Bowler",
+    "country": "India",
+    "team": "RR",
+    "price": 30000000
+  },
+  {
+    "name": "Varun Aaron",
+    "role": "Bowler",
+    "country": "India",
+    "team": "RR",
+    "price": 24000000
+  },
+  {
+    "name": "Yashasvi Jaiswal",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "RR",
+    "price": 24000000
+  },
+  {
+    "name": "Mayank Markande",
+    "role": "Bowler",
+    "country": "India",
+    "team": "RR",
+    "price": 20000000
+  },
+  {
+    "name": "Kartik Tyagi",
+    "role": "Bowler",
+    "country": "India",
+    "team": "RR",
+    "price": 13000000
+  },
+  {
+    "name": "Andrew Tye",
+    "role": "Bowler",
+    "country": "Australia",
+    "team": "RR",
+    "price": 10000000
+  },
+  {
+    "name": "Tom Curran",
+    "role": "All Rounder",
+    "country": "England",
+    "team": "RR",
+    "price": 10000000
+  },
+  {
+    "name": "Anuj Rawat",
+    "role": "Wicket Keeper",
+    "country": "India",
+    "team": "RR",
+    "price": 8000000
+  },
+  {
+    "name": "David Miller",
+    "role": "Batsman",
+    "country": "South Africa",
+    "team": "RR",
+    "price": 7500000
+  },
+  {
+    "name": "Oshane Thomas",
+    "role": "Bowler",
+    "country": "West Indies",
+    "team": "RR",
+    "price": 5000000
+  },
+  {
+    "name": "Shashank Singh",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "RR",
+    "price": 3000000
+  },
+  {
+    "name": "Mahipal Lomror",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "RR",
+    "price": 2000000
+  },
+  {
+    "name": "Manan Vohra",
+    "role": "Batsman",
+    "country": "India",
+    "team": "RR",
+    "price": 2000000
+  },
+  {
+    "name": "Riyan Parag",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "RR",
+    "price": 2000000
+  },
+  {
+    "name": "Shreyas Gopal",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "RR",
+    "price": 2000000
+  },
+  {
+    "name": "Akash Singh",
+    "role": "Bowler",
+    "country": "India",
+    "team": "RR",
+    "price": 2000000
+  },
+  {
+    "name": "Anirudha Joshi",
+    "role": "All Rounder",
+    "country": "India",
+    "team": "RR",
+    "price": 2000000
+  }
+]
