@@ -3,6 +3,7 @@ package com.careerit.iplstat;
 import java.io.IOException;
 import java.io.PrintWriter;
 
+import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -23,16 +24,10 @@ public class TeamStatServlet extends HttpServlet {
 		
 		PrintWriter out = response.getWriter();
 		String teamName = request.getParameter("teamname");
-		StringBuilder sb = new StringBuilder();
-		sb.append("<html>");
-		sb.append("<head><title>IPL team information</title></head>");
-		sb.append("<body>");
-     	sb.append("<a href='teams'>Teams</a>");
-		sb.append("<p>The detailed information :<strong>"+teamName+"</strong></p>");
-		//Logic 
-		sb.append("</body>");
-		sb.append("</html>");
-		out.write(sb.toString());
+		
+		//Logic to get player information of the given team
+		RequestDispatcher rd = request.getRequestDispatcher("players.jsp");
+    	rd.forward(request, response);
 	}
 
 }
