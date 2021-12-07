@@ -25,17 +25,13 @@ public class TeamServlet extends HttpServlet {
 		teamStatDao = new TeamStatDao();
 	}
 
-
-
 	protected void doGet(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
-
 		List<Team> teamList = teamStatDao.getAllTeamDetails();
 		request.setAttribute("teams", teamList);
 		RequestDispatcher rd = request.getRequestDispatcher("teams.jsp");
 		rd.forward(request, response);
 		
-
 	}
 
 }

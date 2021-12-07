@@ -27,17 +27,43 @@
 	<div class="container mt-3">
 		
 		<a href="teams">Teams</a>
+		
+		<div class="row">
+				<!--  -->
+		</div>
 		<div class="row">
 
 			<div class="col">
-				<h3 class="text-center">Teams Stat Information</h3>
+				<h3 class="text-center">Player(s) Information</h3>
 				
 						
-				
+				<table class="table table-striped table-hover">
+					<thead>
+						<tr>
+							<th scope="col">#</th>
+							<th scope="col">Name</th>
+							<th scope="col">Role</th>
+							<th scope="col">Label</th>
+							<th scope="col">Price (INR)</th>
+						
+						</tr>
+					</thead>
+					<tbody>
+					
+						<c:forEach items="${players}" var="player" varStatus="i">
+						<tr>
+							<th scope="row">${i.index + 1}</th>
+							<td>${player.name}</td>
+							<td>${player.role}</td>
+							<td>${player.label}</td>
+							<td>${player.price}</td>
+						</tr>
+						</c:forEach>
+					</tbody>
+				</table>
 			</div>
 
 		</div>
-
 	</div>
 
 	<!-- Optional JavaScript; choose one of the two! -->
