@@ -1,0 +1,1 @@
+create table book(bid serial,title varchar(250),author varchar(250),price float,primary key(bid));
