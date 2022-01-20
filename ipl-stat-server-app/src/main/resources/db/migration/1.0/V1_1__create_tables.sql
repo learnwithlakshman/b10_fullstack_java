@@ -1,0 +1,2 @@
+create table team(label varchar(100)primary key,name varchar(100),city varchar(100),home varchar(100),coach varchar(100));
+create table player(id serial primary key,name varchar(100),price float,role varchar(100),label varchar(100),foreign key(label) references team(label));
