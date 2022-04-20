@@ -1,4 +1,7 @@
 import { Component, OnInit } from '@angular/core';
+import { GoogleChartInterface, GoogleChartType } from 'ng2-google-charts';
+import { TeamAmount } from '../model/teamamount.model';
+import { IplstatService } from './service/iplstat.service';
 
 @Component({
   selector: 'app-iplstat',
@@ -7,9 +10,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class IplstatComponent implements OnInit {
 
+  
   constructor() { }
 
   ngOnInit(): void {
   }
+  
 
 }

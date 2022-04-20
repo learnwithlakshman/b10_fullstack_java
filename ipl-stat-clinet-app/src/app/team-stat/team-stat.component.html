@@ -1,0 +1,27 @@
+
+<div class="row mt-3">
+
+        <div *ngIf="teams.length != 0">
+            <div class="col col-md-8 offset-md-2">
+                <select class="form-select" aria-label="Default select example" (change)="showTeamDetails(name.value)" #name>
+                    <option selected value="">Select Team Name</option>
+                    <option *ngFor="let team of teams" value={{team.label}}>{{team.label}} - {{team.name}}</option>
+                </select>
+            </div>
+        </div>
+        
+
+</div>
+
+<div class="row mt-2">
+
+        <div class="col">
+                <div *ngIf="players.length != 0">
+
+                        {{players | json}}
+
+                </div>
+        </div>
+        <div class="col"></div>
+
+</div>

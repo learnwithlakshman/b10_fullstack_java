@@ -8,20 +8,31 @@ import { IplstatComponent } from './iplstat/iplstat.component';
 import { CbookComponent } from './cbook/cbook.component';
 import { HeaderComponent } from './header/header.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
-
+import { Ng2GoogleChartsModule } from 'ng2-google-charts';
+import {HttpClientModule} from '@angular/common/http';
+import { TeamStatComponent } from './team-stat/team-stat.component';
+import { MaxPricePlayersComponent } from './max-price-players/max-price-players.component';
+import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
+import { IplStatTeamRoleComponent } from './ipl-stat-team-role/ipl-stat-team-role.component';
 @NgModule({
   declarations: [
     AppComponent,
     DatabindingComponent,
     IplstatComponent,
     CbookComponent,
-    HeaderComponent
+    HeaderComponent,
+    TeamStatComponent,
+    MaxPricePlayersComponent,
+    PageNotFoundComponent,
+    IplStatTeamRoleComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     FormsModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    Ng2GoogleChartsModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
